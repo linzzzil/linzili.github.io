@@ -1,5 +1,6 @@
-Hello!
-This is Linzi's personal page at https://linzili.github.io.
+# Linzi's academic personal homepage
+## Hello!
+## This is Linzi's [personal homepage](https://linzili.github.io).
 
 <!--
 # Academic Pages

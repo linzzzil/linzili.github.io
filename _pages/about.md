@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a fifth-year PhD student in the Department of Epidemiology at the Rollins School of Public Health, Emory University, with a research focus on cardiovascular epidemiology. I am mentored by [Dr. Alvaro Alonso](https://sph.emory.edu/profile/faculty/alvaro-alonso), and my work centers on understanding the relationship between biomarkers, lifestyle factors, environmental exposures across the continuum of cardiovascular diseases and outcomes. Currently my dissertation research focuses on how substituting sedentary behavior with physical activity and sleep impacts the development, risk, and prognosis of atrial fibrillation. This work leverages actigraphy-derived movement data in the context of three studies, including a randomized clincial trial and two population-based cohorts.
 
+Previously, I hold a BS in Biological Sciences from Fudan University, as well as an MPH in Health Policy and Management and an MSPH in Epidemiology from Emory University. 
+
+I am comitted to contributing to evidence-based research that inform disease prevention, clinical strategies, and public health policies, with the ultimate goal of reducing health disparities and the burden of cardiovascular disease.
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -54,3 +60,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->

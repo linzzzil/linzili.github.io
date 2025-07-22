@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Linzi Li"
+title                    : "LINZI LI \n(李林子)\n"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "linzzzil/linzili.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Linzi Li\n李林子\n"
+  name             : "Linzi Li, MPH, MSPH"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Epidemiology"
   location         : "Atlanta, GA"
